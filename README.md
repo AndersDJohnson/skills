@@ -1,4 +1,4 @@
-# copilot-skills
+# skills
 
 This is a backup of my local `~/.agents/skills` (and/or `~/.copilot/skills`) directory.
 
